@@ -8,6 +8,7 @@ const ContactCard = (props) => {
             <div className="content" id="akbc">
                 <div className="header">{name}</div>
                 <div>{email}</div>
+
             </div>
                 <i 
                 className="trash alternate outline icon"
