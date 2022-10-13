@@ -15,4 +15,4 @@ export default {
 export const Primary = () => <Button backgroundColor="#ff0" label="Button" />;
 export const Secondary = () => <Button backgroundColor="#ff0" label="😄👍😍💯" />;
 export const Tertiary = () => <Button backgroundColor="#ff0" label="📚📕📈🤓" />;
-export const four = () => <Button backgroundColor="#ff0" label="Hello Team" />;
+export const four = () => <Button backgroundColor="#ff0" label="Hello Team QA" />;
